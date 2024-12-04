@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="bongo.gif" height="200" width="200" class="center">
+    <img src="../bongo.gif" height="200" width="200" class="center">
 </p>
 
 ## Penatechs is ...
