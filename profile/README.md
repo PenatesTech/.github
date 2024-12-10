@@ -11,7 +11,3 @@
 Think of us as the tech-savvy best friend 🦴 clinics never knew they needed. With our tools, you’ll spend less time juggling admin tasks and more time making tails wag. 🐕‍🦺 We’re proud to fetch solutions that keep pet health on track and clinic workflows running like a well-trained pup. 🐶💻
 
 #### In the pet tech world, we’re not kitten around! 🐱✨
-
-<p align="right">
-    <img src="../bongo.gif" height="200" width="200">
-</p>
